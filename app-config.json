@@ -1,0 +1,11 @@
+{
+  "name": "webview-ap2p-20250617",
+  "description": "WebView app with automated builds",
+  "platform": "flutter",
+  "features": [
+    "webview",
+    "automated-builds",
+    "github-actions"
+  ],
+  "buildStatus": "ready"
+}
